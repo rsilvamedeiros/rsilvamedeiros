@@ -85,21 +85,27 @@ Utilizo Inteligência Artificial como parte do ciclo de Engenharia de Software p
 
 ---
 
-## GitHub Stats
+## Atividade no GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsilvamedeiros&show_icons=true&commits_year=2026&rank_icon=github&hide_border=true&locale=pt-br&cache_seconds=86400)
+<a href="https://github.com/rsilvamedeiros">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsilvamedeiros&theme=github" alt="Linha do tempo de contribuições de Renan Medeiros" />
+</a>
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rsilvamedeiros&layout=compact&langs_count=8&hide_border=true&locale=pt-br&cache_seconds=86400)
+<a href="https://github.com/rsilvamedeiros">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rsilvamedeiros&theme=github" alt="Estatísticas do GitHub" />
+</a>
+<a href="https://github.com/rsilvamedeiros">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsilvamedeiros&theme=github&utcOffset=-3" alt="Horários com mais contribuições" />
+</a>
 
-</div>
-
-### Atividade no GitHub
-
-<div align="center">
-
-![Linha do tempo de contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsilvamedeiros&theme=github)
+<a href="https://github.com/rsilvamedeiros?tab=repositories">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsilvamedeiros&theme=github" alt="Linguagens por repositório" />
+</a>
+<a href="https://github.com/rsilvamedeiros?tab=repositories">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rsilvamedeiros&theme=github" alt="Linguagens mais utilizadas nos commits" />
+</a>
 
 </div>
 
