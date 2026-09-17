@@ -87,8 +87,6 @@ Utilizo Inteligência Artificial como parte do ciclo de Engenharia de Software p
 
 ## Atividade no GitHub
 
-### Visão geral
-
 <a href="https://github.com/rsilvamedeiros">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsilvamedeiros&theme=github_dark" />
@@ -96,42 +94,6 @@ Utilizo Inteligência Artificial como parte do ciclo de Engenharia de Software p
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsilvamedeiros&theme=github" alt="Linha do tempo de contribuições de Renan Medeiros" />
   </picture>
 </a>
-
-<p align="center">
-<a href="https://github.com/rsilvamedeiros">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rsilvamedeiros&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rsilvamedeiros&theme=github" />
-    <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rsilvamedeiros&theme=github" alt="Estatísticas do GitHub" />
-  </picture>
-</a>
-<a href="https://github.com/rsilvamedeiros">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsilvamedeiros&theme=github_dark&utcOffset=-3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsilvamedeiros&theme=github&utcOffset=-3" />
-    <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsilvamedeiros&theme=github&utcOffset=-3" alt="Horários com mais contribuições" />
-  </picture>
-</a>
-</p>
-
-### Tecnologias nos repositórios
-
-<p align="center">
-<a href="https://github.com/rsilvamedeiros?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsilvamedeiros&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsilvamedeiros&theme=github" />
-    <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsilvamedeiros&theme=github" alt="Linguagens por repositório" />
-  </picture>
-</a>
-<a href="https://github.com/rsilvamedeiros?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rsilvamedeiros&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rsilvamedeiros&theme=github" />
-    <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rsilvamedeiros&theme=github" alt="Linguagens mais utilizadas nos commits" />
-  </picture>
-</a>
-</p>
 
 ---
 
