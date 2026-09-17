@@ -85,31 +85,15 @@ Utilizo Inteligência Artificial como parte do ciclo de Engenharia de Software p
 
 ---
 
-## Performance & Engenharia
-
-Experiência com **Core Web Vitals, Lighthouse, SSR/ISR, Dynamic Imports, Lazy Loading, Code Splitting, cache e SEO técnico**.
-
-Em um projeto real com Next.js, otimizações de arquitetura e performance reduziram o **Largest Contentful Paint (LCP) de 5,1s para 2,8s**.
-
-<div align="center">
-
-### LCP: 5,1s → 2,8s
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rsilvamedeiros&show_icons=true&commits_year=2026&rank_icon=github&hide_border=true&locale=pt-br" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsilvamedeiros&show_icons=true&commits_year=2026&rank_icon=github&hide_border=true&locale=pt-br&cache_seconds=86400)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsilvamedeiros&layout=compact&langs_count=8&hide_border=true" />
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rsilvamedeiros&layout=compact&langs_count=8&hide_border=true&locale=pt-br&cache_seconds=86400)
 
 </div>
-
-> As estatísticas consideram os dados disponibilizados pela API do GitHub. O calendário oficial de contribuições pode ser visualizado diretamente no perfil.
 
 ---
 
