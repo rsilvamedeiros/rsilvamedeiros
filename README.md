@@ -95,6 +95,16 @@ Utilizo Inteligência Artificial como parte do ciclo de Engenharia de Software p
 
 </div>
 
+### Commits recentes
+
+<!-- RECENT-COMMITS:START -->
+- [`17d2865`](https://github.com/rsilvamedeiros/rsilvamedeiros/commit/17d2865c49b820df9abf71f33c705dee3d75e393) — Update README by removing performance details em [rsilvamedeiros](https://github.com/rsilvamedeiros/rsilvamedeiros) · 17/09/2026
+- [`6a7e2ae`](https://github.com/rsilvamedeiros/rsilvamedeiros/commit/6a7e2ae16d0e64d0779022b6d7de7d600c8449db) — feat: refactor README for clarity and updated content em [rsilvamedeiros](https://github.com/rsilvamedeiros/rsilvamedeiros) · 17/09/2026
+- [`5083379`](https://github.com/rsilvamedeiros/rsilvamedeiros/commit/5083379ae667f2be24d23b06ae5d83b5e6af667f) — feat: revise README for clarity and updated stats em [rsilvamedeiros](https://github.com/rsilvamedeiros/rsilvamedeiros) · 17/09/2026
+- [`d124f4e`](https://github.com/rsilvamedeiros/rsilvamedeiros/commit/d124f4e539ea17eab57235751867014f083e65e3) — feat: revise README with personal and technical details em [rsilvamedeiros](https://github.com/rsilvamedeiros/rsilvamedeiros) · 17/09/2026
+- [`37b4e82`](https://github.com/rsilvamedeiros/rsilvamedeiros/commit/37b4e82862d9292a1a8f68611aa9235ef3ef64c8) — Initial commit em [rsilvamedeiros](https://github.com/rsilvamedeiros/rsilvamedeiros) · 17/09/2026
+<!-- RECENT-COMMITS:END -->
+
 ---
 
 ## Contato
